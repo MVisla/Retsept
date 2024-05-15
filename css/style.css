@@ -1,0 +1,80 @@
+body {
+    background-color: moccasin;
+}
+
+.heading {
+    text-align: center;
+}
+
+.Retsept-heading {
+    color: lightsalmon;
+    font-family: "Poetsen One";
+    font-size: 5rem;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.koostisosad {
+    color: salmon;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.koostisosade-tabel {
+    border: 1px solid salmon;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.koostisosade-tabel th, .koostisosade-tabel td {
+    padding: 10px;
+    text-align: left;
+}
+
+.valmistamine {
+    margin: 20px;
+    color: salmon;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.valmistamine ol {
+    padding-left: 20px;
+}
+
+.Serveerimine {
+    text-align: center;
+    color: salmon;
+    margin-top: 20px;
+}
+
+.Soov {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Soov-söömisele {
+    color: lightcoral;
+    font-family: "Poetsen One";
+    font-size: 3rem;
+}
+
+.footer {
+    color: lightblue;
+    font-family: "Poetsen One";
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.footer a {
+    color: lightblue;
+    text-decoration: none;
+}
